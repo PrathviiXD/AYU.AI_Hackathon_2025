@@ -1,0 +1,7 @@
+Team Name: JanRakshak
+Project: AYU.AI – Emotionally Intelligent Health Assistant
+
+Team Members:
+1. Prathvi - Idea Lead, Documentation, UI/UX Design, Chatbot Integration, Presentation, Testing
+
+Date: [08-07-2025]
