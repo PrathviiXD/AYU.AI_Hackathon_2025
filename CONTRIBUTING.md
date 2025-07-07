@@ -1,4 +1,12 @@
 # Contributing to AYU.AI
 
-This is a hackathon project. Contributions welcome after July 2025.
-Please open issues or pull requests for improvements.
+Thank you for your interest in contributing!
+
+This is a hackathon project built by team JanRakshak.
+You can help by:
+- Reporting issues
+- Suggesting improvements
+- Creating pull requests (after July 2025)
+
+Contact: [prathvirajsinghsushma@gmail.com]
+
