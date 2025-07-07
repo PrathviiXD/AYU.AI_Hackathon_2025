@@ -1,0 +1,10 @@
+Frontend:
+- HTML, CSS, JavaScript
+
+Backend / Logic:
+- Dialogflow, JS functions (optional)
+
+Tools:
+- GitHub
+- Canva/Figma (for UI/UX)
+- Google Sheets / Airtable (for database)
