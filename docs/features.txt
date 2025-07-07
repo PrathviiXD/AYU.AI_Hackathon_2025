@@ -1,0 +1,19 @@
+AYU.AI – Core Features
+
+1. Multilingual Chatbot
+   - Understands Hindi, English & mixed regional input
+
+2. Emotionally Intelligent
+   - Detects stress, urgency, emotional tone of user
+
+3. Disease Suggestion Engine
+   - Maps symptoms to common diseases using global & Indian database
+
+4. Fast & Offline First
+   - Lightweight and responsive UI for low-network areas
+
+5. Human-like Interaction
+   - Polite, calm, and adaptive communication style
+
+6. Verified Data
+   - WHO + MoHFW certified disease info used
