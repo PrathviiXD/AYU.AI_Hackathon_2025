@@ -1,0 +1,5 @@
+Problem:
+Delay in getting information about actual disease , language-friendly health support in India, especially rural areas.
+
+Solution:
+AYU.AI – An AI-powered chatbot that understands human tone + local languages and provides instant health suggestions.
